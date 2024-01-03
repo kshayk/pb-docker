@@ -1,0 +1,11 @@
+{
+  "name": "pb-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "docker-compose up --build -d"
+  },
+  "author": "",
+  "license": "ISC"
+}
